@@ -12,3 +12,9 @@ Class Project
 * Allow the user to search for multiple requirements and show the courses that satisfy all of them.
 * On the home page show the top 5 courses that satisfy the most requirements
 
+**Features**
+
+**How to Use It**
+* Clone or download repo
+* Run node server in Terminal
+
