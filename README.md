@@ -16,5 +16,5 @@ Class Project
 
 **How to Use It**
 * Clone or download repo
-* Run node server in Terminal
+* Run restserver.py in Terminal
 
