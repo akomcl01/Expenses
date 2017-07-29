@@ -6,7 +6,7 @@ Class Project
 
 [LIVE DEMO]()
 
-**Features**
+**Objectives**
 * Allow the user to search for a course by partial name and show the requirements it satisfies
 * Allow the user to search for a requirement and show the courses that satisfy that requirement
 * Allow the user to search for multiple requirements and show the courses that satisfy all of them.
