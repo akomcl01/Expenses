@@ -1,5 +1,5 @@
 **Challenge**
-ExpensesTracking Web App.
+Expenses Tracking Web App.
 Class Project
 
 [LIVE DEMO]()
